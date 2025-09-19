@@ -1,0 +1,1 @@
+node.exe node_modules\web-ext\bin\web-ext.js build --config=config.mjs

@@ -1,0 +1,1 @@
+node.exe node_modules\web-ext\bin\web-ext.js sign --config=config.mjs --api-key=$(Get-Content ..\user.txt) --api-secret=$(Get-Content ..\secret.txt) --channel=listed
